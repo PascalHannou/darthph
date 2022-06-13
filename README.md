@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💫About Me :
-👋 Hi, I’m @darthph
-🌱 I’m currently learning Python
-👀 I’m interested in cybersecurity 
-💬 Ask me about anything tech
+- 👋 Hi, I’m @darthph
+- 🌱 I’m currently learning Python
+- 👀 I’m interested in cybersecurity 
+- 💬 Ask me about anything tech
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@pascal.h) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@onlyaburner) 
